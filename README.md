@@ -4,7 +4,7 @@ Bioscientist, Biotechnologist & Data Scientist | Python
 
 __MSc in Applied Biosciences and Biotechnology (Imperial), BSc in Biomedical Sciences (UCL)__
 
-* 🔭 I’m currently working on enhancing my skills and knowledge on using Machine Learning for meaningful biotech applications.
+* 🔭 I’m currently working on enhancing my skills and knowledge on using Machine Learning for meaningful biotechnological applications.
 * 👯 I’m looking to collaborate on Machine Learning-assisted Directed Evolution and Protein Engineering.
 * 😄 Pronouns: he/him
 * 📫 How to reach me: gio.han@outlook.com 
