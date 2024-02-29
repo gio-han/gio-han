@@ -23,4 +23,5 @@ __MSc in Applied Biosciences and Biotechnology (Imperial), BSc in Biomedical Sci
 
 
 Here is a photo high above my home town of Meran in Italy:
+
 ![high_above_merano_italy](https://github.com/gio-han/gio-han/assets/151397333/1ab9a45c-1c1b-45d3-a2e2-4cf5296844b0)
