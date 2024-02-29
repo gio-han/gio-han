@@ -11,7 +11,7 @@ __MSc in Applied Biosciences and Biotechnology (Imperial), BSc in Biomedical Sci
 * 💬 Ask me about Biosciences and Biotechnology
 
 ### Tech Stack:
-* Programming Languages: Python, SQL
+* __Programming Languages:__ Python, SQL
 * Data transformation, manipulation, analysis and visualisation: NumPy, pandas, Matplotlib and seaborn
 * Data pre-processing and cleaning using FuzzyWuzzy
 * Machine Learning (ML), including linear and logistic regression, using scikit-learn
@@ -19,4 +19,4 @@ __MSc in Applied Biosciences and Biotechnology (Imperial), BSc in Biomedical Sci
 * Version Control with Git and GitHub
 * Object-Oriented Programming (OOP)
 * Molecular visualisation using PyMOL
-* Other Tools: Microsoft Office (ECDL certification) & Google Workspace
+* __Other Tools:__ Microsoft Office (ECDL certification) & Google Workspace
