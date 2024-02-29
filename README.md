@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hannes
 
-Bioscientist, Biotechnologist & Data Scientist | Python
+#### Bioscientist, Biotechnologist & Data Scientist
 
 __MSc in Applied Biosciences and Biotechnology (Imperial), BSc in Biomedical Sciences (UCL)__
 
