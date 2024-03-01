@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Hannes
 
-#### Bioscientist, Biotechnologist & Data Scientist
+#### Bioscientist, Biotechnologist & Data Scientist based in London (UK)
 
 __MSc in Applied Biosciences and Biotechnology (Imperial), BSc in Biomedical Sciences (UCL)__
 
